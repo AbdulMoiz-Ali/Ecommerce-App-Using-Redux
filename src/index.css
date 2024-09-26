@@ -1,0 +1,17 @@
+@import "flowbite/dist/flowbite.css";
+
+body {
+    background-color: aqua;
+}
+
+.cade {
+    border-radius:20px ;
+    border: 1px solid silver;
+    margin: 10px;
+}
+.maincard{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
